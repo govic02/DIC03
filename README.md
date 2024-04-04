@@ -33,7 +33,7 @@ There is also an additional configuration for the NGINX server contained in the 
 To deploy to AWS you only need to merge changes to the ```aws``` branch. This process can be manual, using the following steps as an example:
 
 ```
-on main branch
+...on main branch
 $ git add .
 $ git commit -m "chore: something"
 $ git push
